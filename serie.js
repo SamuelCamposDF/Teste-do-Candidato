@@ -1,5 +1,4 @@
 
-console.log(array);
 var HtmlDaPagina = "<table class='table table-hover'>";
 for (let i = 0; i < array.length; i++) {
     HtmlDaPagina += "<tbody><tr>";
